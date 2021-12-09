@@ -116,7 +116,7 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 serverfiles==0.3.1
 setuptools==58.0.4
-sip==4.19.13
+sip==5.0.0
 six==1.15.0
 sniffio==1.2.0
 tenacity==8.0.1
